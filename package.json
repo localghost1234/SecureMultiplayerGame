@@ -1,7 +1,7 @@
 {
   "name": "secure-real-time-multiplayer-game",
   "version": "1.0.0",
-  "description": "Information Security 5: Secure Real-Time Multiplayer Game",
+  "description": "Information Security: Secure Real-Time Multiplayer Game",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

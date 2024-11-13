@@ -6,8 +6,12 @@ code {
   background: #d0d0d5;
 }
 
-canvas {
+#game-window {
   margin: auto;
+  background-color: darkslategrey;
+}
+
+#player {
 }
 
 .container {
